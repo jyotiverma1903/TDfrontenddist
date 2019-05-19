@@ -1,0 +1,44 @@
+.profile-pic{
+    margin: 5%;
+    font-size: 15em;
+}
+.profile-pic2{
+    font-size: 4em;
+}
+.marginTop{
+    margin-top: 2%; 
+    background-color: #ffffff61;
+    color: rgba(0,0,0,.54);
+}
+
+.people-search{
+    width: 100%;
+    background:transparent;
+}
+.people-ul{
+    display: flex;
+    list-style: none;
+    overflow-x: auto;
+    background:transparent;
+}
+.mat-card-green-people {
+    background: transparent;
+    margin: 5%;
+    -webkit-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.2) ;
+box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.2) ;
+}
+.mat-success {
+
+    color:black;
+    text-shadow: black;
+  }
+  .mat-expansion-panel{
+    background:transparent;
+  }
+ .mat-form-field{
+
+    background:transparent;
+ }
+ .mat-card{
+     background: transparent;
+ }

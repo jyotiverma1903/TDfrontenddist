@@ -1,0 +1,9 @@
+.background{
+    background-image: url("./../../assets/505.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: -webkit-fill-available;
+    background-color: transparent;
+    opacity: 0.4;
+}
